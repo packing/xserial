@@ -1,4 +1,4 @@
-module xserial
+module github.com/packing/xserial
 
 go 1.16
 
